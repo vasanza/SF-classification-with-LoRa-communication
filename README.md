@@ -2,6 +2,8 @@
 
 Unlock the potential of LoRa communication by delving into Spreading Factor (SF) classification using MATLAB. This repository offers a curated selection of MATLAB-based code, models, and tools tailored specifically for SF classification in LoRa communication. Dive into the world of wireless technology and harness the power of MATLAB to explore, analyze, and optimize SF classification techniques.
 
+![image](https://github.com/vasanza/SF-classification-with-LoRa-communication/assets/12642226/e83b90b1-a7df-46e3-9f8f-a271ee771fa4)
+
 ## Independent Variables: Distance, RSSI (Received Signal Strength Indicator), SNR (Signal-to-Noise Ratio), Soncumed Airtime, Frequency MHz, Bandwidth KHz, Coding Rate, Percentage of Humidity.
 - Distance: The physical distance between the transmitter and the receiver.
 - RSSI (Received Signal Strength Indicator): Indicator of the received signal power.
